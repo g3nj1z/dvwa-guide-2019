@@ -1,4 +1,7 @@
 # Damn Vulnerable Web App Guide 2019
+
+(5 Practical Scenarios for XSS Attacks)[https://pentest-tools.com/blog/xss-attacks-practical-scenarios/]
+
 A compilation of solutions and various notes for the Damn Vulnerable Web App (DVWA) pentesting tool, intended to be accurate as of 2Q 2019.
 
 <b><i>Please note the following restrictions and caveats. Please read them in full. Continuing to read or interact with this repo in any manner signifies consent to these terms.</i></b>
@@ -21,9 +24,3 @@ A compilation of solutions and various notes for the Damn Vulnerable Web App (DV
   <li>These notes should be for personal use only. Educational, commercial, or governmental use is expressly prohibited without my written consent.</li>
   <li>Don't use any of this for illegal purposes. I understand that not all IT security people feel the need to stay white-hat. However, I myself am purely white-hat, and I expect you to be the same. Don't use my notes - or the skills you learn by using my solutions - for anything that could even be concievably mistaken as illegal activity. If you wouldn't do it in front of an FBI agent or your mom, don't do it at all. I will go out of my way to help law enforcement if they reach out to me about something I post here.</li>
 </ol>
-
-Any questions, comments, concerns? Let me know. Have fun!
-
--Mark
-<br>
-Twitter: @markrudnitsky
