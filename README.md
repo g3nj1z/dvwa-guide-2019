@@ -1,6 +1,6 @@
 # Damn Vulnerable Web App Guide 2019
 
-(5 Practical Scenarios for XSS Attacks)[https://pentest-tools.com/blog/xss-attacks-practical-scenarios/]
+[5 Practical Scenarios for XSS Attacks](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/)
 
 A compilation of solutions and various notes for the Damn Vulnerable Web App (DVWA) pentesting tool, intended to be accurate as of 2Q 2019.
 
